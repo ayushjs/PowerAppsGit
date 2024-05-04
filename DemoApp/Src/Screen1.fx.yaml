@@ -34,7 +34,7 @@
                 LayoutMinHeight: =75
                 LayoutMinWidth: =Parent.Width
                 OnSelectLogo: =false
-                Title: ="Welcome screen"
+                Title: ="Welcome screen - Updated in VS Code"
                 UserEmail: =User().Email
                 UserImage: =User().Image
                 UserName: =User().FullName
